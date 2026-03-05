@@ -1,55 +1,80 @@
-# 👋 Hi, I'm Julio Flores
+# Hi, I'm Julio Flores
 
-**Full-Time Student | Full-Time Software Engineer | Developer Club WMU Lead | Founder, Software Company**
+**Software Engineer \| Computer Science Student \| Developer Club WMU
+Lead \| Founder, Guide Systems**
 
----
+------------------------------------------------------------------------
 
-### 🚀 About Me
+## About Me
 
-I'm currently pursuing my Bachelor's degree, graduating in May 2026, while working full-time as a software engineer. I thrive on building applications that make a real difference—especially those that elevate user experiences and streamline complex workflows.
+I am a Computer Science student at Western Michigan University
+graduating in May 2026 while working full-time as a software engineer. I
+focus on building practical software systems that solve real operational
+problems, particularly platforms that manage complex workflows, data,
+and automation.
 
-As a leader at [Developer Club WMU](https://github.com/Developer-Club-WMU), I drive engineering efforts and foster collaboration across six distinct communities. My primary responsibility is architecting and building our club's full-stack application—empowering members to connect, track participation, submit forms, and more.
+### Guide Systems
 
-I'm also the founder of a new software company where I am responsible for designing and deploying the complete technical infrastructure. Our company has already delivered websites for four clients, establishing a strong foundation for growth and reliability.
+I am the founder of **Guide Systems**, a software company focused on
+building operational software platforms for organizations.
 
----
+**Website:** https://guide-systems.com
 
-### 🛠️ Technical Skills
+Guide Systems focuses on developing scalable systems that help companies
+manage complex operations such as procurement workflows, vendor
+management, inventory tracking, and internal automation. I design and
+implement the full technical stack for the platform, including backend
+services, database architecture, infrastructure, and frontend
+applications.
 
-- **Languages & Tools:** TypeScript, JavaScript, Node.js, React, Next.js, TanStack, Prisma, Zod, tRPC
-- **Databases:** PostgreSQL, SQLite
-- **Authentication:** NextAuth
-- **CI/CD & DevOps:** Docker, GitHub Actions, VM orchestration
+The goal of Guide Systems is to create reliable, well‑engineered
+software that helps organizations operate more efficiently while
+providing modern user experiences and maintainable systems.
 
----
+------------------------------------------------------------------------
 
-### 🏆 Highlights & Achievements
+## Developer Club WMU
 
-- **Developer Club WMU Platform:** Led the design and development of a full-stack application for member management, event tracking, and form submissions.
-- **CI/CD Pipeline:** Co-built a robust pipeline using custom VMs and Docker, enabling automated deployments from GitHub Actions.  
-  - Dev branch: protected by build steps  
-  - Staging branch: runs schema checks to safeguard production  
-  - Production branch: auto-deploys and serves latest stable updates
-- **Software Company Founder:** Engineered all core infrastructure and delivered successful websites for four clients.
+As a leader of Developer Club WMU at Western Michigan University, I help
+guide engineering efforts across multiple developer communities and
+mentor students interested in gaining real-world development experience.
 
----
+I also work on the architecture and development of the club's internal
+platform used for managing members, events, applications, and
+participation tracking.
 
-### 🌱 What Drives Me
+------------------------------------------------------------------------
 
-I'm passionate about engineering scalable, maintainable applications and crafting seamless user experiences. My goal is to create technology that genuinely helps people—whether through club initiatives, professional work, or open-source contributions.
+## Technical Skills
 
----
+### Languages & Frameworks
 
-### 📚 Featured Projects
+TypeScript, JavaScript, Node.js, React, Next.js, TanStack, tRPC, Zod
 
-- [Developer-Club-WMU/webdev-landing](https://github.com/Developer-Club-WMU/webdev-landing) – Club landing page and member portal  
+### Databases
 
----
+PostgreSQL, SQLite
 
-### 📫 Contact Me
+### Backend & Architecture
 
-- **Email:** florescercadojulio@gmail.com (preferred)
+API design, domain-driven architecture, full-stack application
+development
 
----
+### DevOps & Tooling
 
-<!-- Professional tone, no social media included per your request. -->
+Docker, GitHub Actions, CI/CD pipelines, VM-based deployments
+
+------------------------------------------------------------------------
+
+## Interests
+
+I am interested in building scalable software platforms, designing
+reliable backend systems, and developing tools that improve operational
+workflows. I particularly enjoy working on systems that combine strong
+architecture, clean APIs, and efficient user interfaces.
+
+------------------------------------------------------------------------
+
+## Contact
+
+Email: florescercadojulio@gmail.com
